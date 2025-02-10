@@ -1,7 +1,7 @@
 ## 🌐 Live Demo
 
 Explore the live demonstration of the project:
-[reactjs18-3d-portfolio](https://reactjs18-3-d-portfolio.vercel.app/)
+[3D-Portfolio](https://priyanshu-react-portfolio.vercel.app/)
 
 ## 📝 Description
 
@@ -255,9 +255,8 @@ possible:
 
 ## 📞 Contact Us
 
-[![Telegram](https://img.shields.io/badge/Telegram-@ladunjexa-2CA5E0?style=social&logo=telegram&logoColor=000000)](https://t.me/ladunjexa)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ladunjexa-blue?style=flat&logo=linkedin&logoColor=b0c0c0&labelColor=363D44)](https://www.linkedin.com/in/lironabutbul)
-[![Instagram](https://img.shields.io/badge/Instagram-ladunjexa-grey?style=flat&logo=instagram&logoColor=b0c0c0&labelColor=8134af)](https://www.instagram.com/ladunjexa)
+[![Telegram](https://img.shields.io/badge/Telegram-@Ninja_billa_X-2CA5E0?style=social&logo=telegram&logoColor=000000)](https://t.me/Ninja_billa_X)
+[![Instagram](https://img.shields.io/badge/Instagram-pry_uchiha-grey?style=flat&logo=instagram&logoColor=b0c0c0&labelColor=8134af)](https://www.instagram.com/pry_uchiha)
 
 
 ## 📋 License
